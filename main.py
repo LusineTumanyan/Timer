@@ -1,5 +1,8 @@
 from time import sleep
 
+
+
+
 def countdown(inp):
   while True:
     if inp[0] == inp[1] == inp[2] == 0:
